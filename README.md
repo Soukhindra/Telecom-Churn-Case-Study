@@ -178,10 +178,4 @@ Therefore, build another model with the main objective of identifying important 
 
 After identifying important predictors, display them visually - you can use plots, summary tables etc. - whatever you think best conveys the importance of features.
 
- 
 
-Finally, recommend strategies to manage customer churn based on your observations.
-
- 
-
-#### Note: Everything has to be submitted in one Jupyter notebook.
