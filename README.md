@@ -96,7 +96,6 @@ In this case, since we are working over a four-month window, the first two month
  
 
 # Data Dictionary
-The dataset can be download using this link. The data dictionary is provided in repository.
 
 The data dictionary contains meanings of abbreviations. Some frequent ones are loc (local), IC (incoming), OG (outgoing), T2T (telecom operator to telecom operator), T2O (telecom operator to another operator), RECH (recharge) etc.
 
@@ -106,7 +105,7 @@ The attributes containing 6, 7, 8, 9 as suffixes imply that those correspond to 
 
  
 
-Data Preparation
+# Data Preparation
 The following data preparation steps are crucial for this problem:
 
  
